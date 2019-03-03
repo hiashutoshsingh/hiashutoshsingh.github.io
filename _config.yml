@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Ashutosh Kumar Singh
+bio: Exploring (^_^)
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,13 +8,13 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/ashu.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://docs.google.com/document/d/1eXZI7lGqMsgyv0DOeekq_AMHGI8lmZxExD0QTwX60Cc/edit?usp=sharing
 
 url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
@@ -55,10 +55,10 @@ email: myemail@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Ashutosh Kumar Singh
+        bio: Expolring (^_^)
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/ashu.jpg
         twitter: johndoe
     jamesfoster:
         name: James Foster
@@ -117,4 +117,4 @@ compress_html:
         - development
         - stage
 
-exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
+exclude: ["travis.sh", "Rakefile", "Gemfile", "Gemfile.lock", "FAQ.md"]
