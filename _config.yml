@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/ashu.jpg
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://docs.google.com/document/d/1eXZI7lGqMsgyv0DOeekq_AMHGI8lmZxExD0QTwX60Cc/edit?usp=sharing
 
-url: https://koppl.in/indigo
+url: https://ashutoshkumarsingh.github.io/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -37,21 +37,21 @@ disqus:
 facebook: myfacebook
 twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
 github: mygithub
 # gitlab: mygitlab
 # lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
+stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: ashutoshsingh.0207@gmail.com
 
 authors:
     johndoe:
@@ -59,18 +59,11 @@ authors:
         bio: Expolring (^_^)
         external-image: false
         picture: assets/images/ashu.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
-
+  
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
