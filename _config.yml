@@ -34,18 +34,18 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: spotAshutoshKumarSingh
+twitter: spot_ashu
 # google: mygoogle
-instagram: myinstagram
+instagram: spotashu
 # pinterest: mypinterest
-linkedin: mylinkedin
+linkedin: spotashutoshkumarsingh
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: ashutoshkumarsingh
 # gitlab: mygitlab
 # lastfm: mylastfm
-stackoverflow: 7044681/mystackoverflow
+stackoverflow: 6875249/spotashu
 # quora: userquora
 # reddit: username
 # medium: medium
