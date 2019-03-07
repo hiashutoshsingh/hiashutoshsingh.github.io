@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/ashu.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -56,7 +56,7 @@ email: ashutoshsingh.0207@gmail.com
 authors:
     johndoe:
         name: Ashutosh Kumar Singh
-        bio: Expolring (^_^)
+        bio: Exploring (^_^)
         external-image: false
         picture: assets/images/ashu.jpg
   
