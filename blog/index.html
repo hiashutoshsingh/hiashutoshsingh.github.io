@@ -4,8 +4,8 @@ title: Blog
 ---
 <section class="list">
 	{% if site.posts.size == 0 %}
-		<p class="text-center">Yo</p>
-	{% elsif site.paginate %}
+		<p class="text-center">Coming Soon</p>
+	<!-- {% elsif site.paginate %}
 		{% for post in paginator.posts %}
 			{% if post.category == 'blog' %}
 				{% if post.hidden != true %}
@@ -22,6 +22,6 @@ title: Blog
 					{% include blog-post.html %}
 				{% endif %}
 			{% endif %}
-		{% endfor %}
+		{% endfor %} -->
 	{% endif %}
 </section>
