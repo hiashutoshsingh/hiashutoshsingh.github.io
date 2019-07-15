@@ -34,10 +34,10 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: spotAshutoshKumarSingh
-twitter: spot_ashu
+#facebook: spotAshutoshKumarSingh
+#twitter: spot_ashu
 # google: mygoogle
-instagram: spotashu
+#instagram: hey.ashutosh
 # pinterest: mypinterest
 linkedin: spotashutoshkumarsingh
 # youtube: myyoutube
